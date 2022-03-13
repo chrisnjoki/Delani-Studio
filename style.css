@@ -32,6 +32,9 @@ color: beige;
 .prtfolio{
     text-align: center;
 }
-.contact us{
-    background-image: url(./Images/c_image.jpg);
+.contact{
+    background-image: url(./contacts.jpg);
+    text-align: center;
+    height: 700px;
+    color: beige;
 }
