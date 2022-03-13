@@ -23,5 +23,10 @@ color: beige;
     color: beige;
     display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: column
+}
+.Do{
+    text-align: center;
+    box-sizing: border-box;
+
 }
