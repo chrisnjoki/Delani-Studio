@@ -18,5 +18,3 @@ $(document).ready(function(){
         $(".product-description").toggle();
     });
 });
-
-

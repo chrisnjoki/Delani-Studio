@@ -6,16 +6,24 @@
     flex-direction: column;
     justify-content: center;
 }
+
+.logo{
+    text-align: center;
+}
+
 h1{
     color:beige;
 }
+
 p1{
 color: beige;
 }
+
 .about{
     text-align: center;
 
 }
+
 .services{
     background-image: url(./delani2.jpg);
     height: 300px;
@@ -25,6 +33,7 @@ color: beige;
     justify-content: center;
     flex-direction: column
 }
+
 .Do{
     box-sizing: border-box;
     display: flex;
@@ -32,9 +41,11 @@ color: beige;
     flex-direction: row;
     justify-content: space-between;
 }
+
 .prtfolio{
     text-align: center;
 }
+
 .contact{
     background-image: url(./contacts.jpg);
     text-align: center;
