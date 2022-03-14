@@ -49,9 +49,11 @@ color: beige;
 .development-description{
     display: none;
 }
+
 .product-description{
     display: none;
 }
+
 .header{
     text-align: center;
 }
