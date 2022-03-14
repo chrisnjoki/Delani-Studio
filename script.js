@@ -12,5 +12,11 @@ $(document).ready(function(){
     });
 });
 
+$(document).ready(function(){
+    $(".product").click(function(){
+        $(".product-icon").toggle();
+        $(".product-description").toggle();
+    });
+});
 
 
