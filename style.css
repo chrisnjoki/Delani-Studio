@@ -51,3 +51,6 @@ color: beige;
 .product-description{
     display: none;
 }
+.header{
+    text-align: center;
+}
