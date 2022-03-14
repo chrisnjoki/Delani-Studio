@@ -3,7 +3,7 @@ $(document).ready(function(){
         $(".design-icon").toggle();
         $(".design-description").toggle();
     });
-})
+});
 
 $(document).ready(function(){
     $(".development").click(function(){
