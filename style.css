@@ -38,3 +38,7 @@ color: beige;
     height: 700px;
     color: beige;
 }
+
+.design-description{
+    display: none;
+}
