@@ -68,3 +68,9 @@ color: beige;
 .header{
     text-align: center;
 }
+
+.icons{
+    display: flex;
+    justify-content: center;
+    
+}
