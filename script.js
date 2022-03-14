@@ -4,3 +4,13 @@ $(document).ready(function(){
         $(".design-description").toggle();
     });
 })
+
+$(document).ready(function(){
+    $(".development").click(function(){
+        $(".development-icon").toggle();
+        $(".development-description").toggle();
+    });
+});
+
+
+
