@@ -73,4 +73,7 @@ color: beige;
     display: flex;
     justify-content: center;
     
+}.image1{
+    position: relative;
+    text-align: center;
 }
