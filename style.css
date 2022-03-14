@@ -26,8 +26,12 @@ color: beige;
     flex-direction: column
 }
 .Do{
-    text-align: center;
     box-sizing: border-box;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
 }
 .prtfolio{
     text-align: center;
