@@ -30,7 +30,6 @@ color: beige;
     display: flex;
     text-align: center;
     flex-direction: row;
-    flex-wrap: nowrap;
     justify-content: space-between;
 }
 .prtfolio{
