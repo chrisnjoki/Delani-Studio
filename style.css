@@ -86,50 +86,64 @@ color: beige;
 .h6b{
     position: relative;
     color: brown;
+    text-align: center;
 }
 
 .h6c{
     position: relative;
     color: brown;
+    text-align: center;
 }
 
 .h6d{
     position: relative;
     color: brown;
+    text-align: center;
 }
 .h6c{
     position: relative;
     color: brown;
+    text-align: center;
 }
 
 .h6d{
     position: relative;
     color: brown;
+    text-align: center;
 }
 
 .h6e{
     position: relative;
     color: brown;
+    text-align: center;
 }
 
 .h6f{
     position: relative;
     color: brown;
+    text-align: center;
 }
 
 .h6g{
     position: relative;
     color: brown;
+    text-align: center;
 }
 
 .h6h{
     position: relative;
     color: brown;
+    text-align: center;
 }
 
-.prtfolio{
-    position: relative;
+.col-md-3 {
     display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-md-3 img {
+   margin-left: 20px;
 }
