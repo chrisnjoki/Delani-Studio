@@ -78,17 +78,58 @@ color: beige;
     text-align: center;
 }
 
-/* .h6a{
-    position: absolute;
-    color:aquamarine;
-    margin-left: 3rem;
-    height: 50%;
-    width: 100%;
-    margin: 2%;
-    top: 1rem;
-    display: none;
-    font-size: 40px;
-    text-align: center;
-    font-weight: 700;
-    
-} */
+.h6a{
+    position: relative;
+    color:brown;
+}
+
+.h6b{
+    position: relative;
+    color: brown;
+}
+
+.h6c{
+    position: relative;
+    color: brown;
+}
+
+.h6d{
+    position: relative;
+    color: brown;
+}
+.h6c{
+    position: relative;
+    color: brown;
+}
+
+.h6d{
+    position: relative;
+    color: brown;
+}
+
+.h6e{
+    position: relative;
+    color: brown;
+}
+
+.h6f{
+    position: relative;
+    color: brown;
+}
+
+.h6g{
+    position: relative;
+    color: brown;
+}
+
+.h6h{
+    position: relative;
+    color: brown;
+}
+
+.prtfolio{
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
