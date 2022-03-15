@@ -115,5 +115,21 @@ $(document).ready(function(){
     });
 });
 
+$(document).ready(function(){
+    $("form#myform").submit(function(event){
+        let name= $("input#myname").val();
+        let email= $("input#myemail").val();
+        let message= $("textarea#area").val();
+
+        if (name && email) {
+            alert(name + ",Thank you,we have received your message");
+        } else{
+            alert("Please enter your name and email");
+        }
+
+    });
+
+});
+
 
 

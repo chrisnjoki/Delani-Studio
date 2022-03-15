@@ -151,3 +151,22 @@ color: beige;
 .footer{
     text-align: center;
 }
+
+#myname{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+#myemail{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+#area{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
